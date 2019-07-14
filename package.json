@@ -1,0 +1,19 @@
+{
+  "name": "lc-monitor",
+  "version": "0.0.1",
+  "description": "lc token monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.3.0",
+    "websocket": "^1.0.29"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
